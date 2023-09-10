@@ -5,5 +5,5 @@ I needed a converter for some RFID/NFC work, and all the converters I tried kind
 With any luck I'll improve it as I continue using it
 
 Requirements:
-Tkinter
+Tkinter,  
 Pyperclip
