@@ -6,8 +6,8 @@ With any luck I'll improve it as I continue using it
 
 Requirements:  
 Tkinter  
-Pyperclip
-KDE Version Requirements:
+Pyperclip  
+KDE Version Requirements:  
 xsel (apt package not python)
 
 
