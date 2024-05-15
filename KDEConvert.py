@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #Ascii sort of works, but it sucks, so all ascii functions have been commented out by default. You can uncomment them all to enable ascii conversion
 
 import os
