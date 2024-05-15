@@ -7,6 +7,8 @@ With any luck I'll improve it as I continue using it
 Requirements:  
 Tkinter  
 Pyperclip
+KDE Version Requirements:
+xsel (apt package not python)
 
 
-Currently Pyperclip causes my system to hang on Debian12 with KDE, so you can use the KDE version if you're having issues on a similar system
+Currently Pyperclip causes my system to hang on Debian12 with KDE, so you can use the KDE version if you're having issues on a similar system. It should be pretty any-linux compatible, you just need to have xsel installed
