@@ -7,3 +7,6 @@ With any luck I'll improve it as I continue using it
 Requirements:  
 Tkinter  
 Pyperclip
+
+
+Currently Pyperclip causes my system to hang on Debian12 with KDE, so you can use the KDE version if you're having issues on a similar system
