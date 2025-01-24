@@ -15,4 +15,4 @@ Currently Pyperclip causes my system to hang on Debian12 with KDE, so you can us
 
 ------------ Comment ---------
 
-Just found out the PM3 client has an awesome converter built in, so I'll probably use this significantly less often: [data num](https://siliconbased.us/pm3/ref/data-num-help.php)
+Just found out the PM3 client has an awesome converter built in, so I'll probably use this significantly less often: [data num](https://siliconbased.us/pm3/ref/data-num.php)
